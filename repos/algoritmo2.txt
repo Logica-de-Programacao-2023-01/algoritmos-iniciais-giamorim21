@@ -1,0 +1,10 @@
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para 
+Fahrenheit ou vice-versa.
+1: leia o valor da temperatura (x)
+2: se x estiver em fahrenheit 
+3: faça (x - 32)/ 1.8
+4: escreva "fahrenheit convertido em celsius" 
+5: senao 
+6: faça ( x . 1,8 ) + 32
+7: escreva "celsius convertido em fahrenheit"
+6: fim
