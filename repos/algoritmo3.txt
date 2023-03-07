@@ -1,0 +1,6 @@
+1: leia a lista de numeros 
+2: soma = 0 
+3: para cada numero da lista faça
+ 3.1: adicione o numero da lista faça 
+4: calcule a média dividindo a variavel soma pelo tamanho da lista 
+5: escreva resultado final 
